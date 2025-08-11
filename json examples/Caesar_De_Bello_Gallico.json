@@ -1,0 +1,21 @@
+{
+  "title": "De Bello Gallico, I, 1",
+  "author": "Gaius Julius Caesar",
+  "genre": "History",
+  "content": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt.",
+  "analysis": {
+    "sentences": [
+      "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.",
+      "Hi omnes lingua, institutis, legibus inter se differunt."
+    ],
+    "verbs": ["est", "divisa", "incolunt", "appellantur", "differunt"],
+    "mainVerb": "est",
+    "mainVerbAnalysis": {
+      "voice": "Attivo",
+      "person": "3a",
+      "number": "Singolare"
+    },
+    "subject": "Gallia",
+    "expertTranslation": "Tutta la Gallia è divisa in tre parti, una delle quali la abitano i Belgi, un'altra gli Aquitani, la terza la abitano coloro che nella loro lingua si chiamano Celti, nella nostra Galli. Tutti questi si differenziano tra loro per lingua, istituzioni e leggi."
+  }
+}

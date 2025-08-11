@@ -1,0 +1,20 @@
+{
+  "title": "Cicero, De Amicitia, VI",
+  "author": "Marcus Tullius Cicero",
+  "genre": "Philosophy",
+  "content": "Est enim amicitia nihil aliud nisi omnium divinarum humanarumque rerum cum benevolentia et caritate consensio.",
+  "analysis": {
+    "sentences": [
+      "Est enim amicitia nihil aliud nisi omnium divinarum humanarumque rerum cum benevolentia et caritate consensio."
+    ],
+    "verbs": ["Est"],
+    "mainVerb": "Est",
+    "mainVerbAnalysis": {
+      "voice": "Attivo",
+      "person": "3a",
+      "number": "Singolare"
+    },
+    "subject": "amicitia",
+    "expertTranslation": "L'amicizia infatti non è nient'altro che un accordo su tutte le cose divine e umane, con benevolenza e affetto."
+  }
+}
