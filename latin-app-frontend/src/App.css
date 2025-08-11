@@ -1,0 +1,23 @@
+.latin-text-display span {
+  cursor: pointer;
+  padding: 2px;
+  margin: 1px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.latin-text-display span:hover {
+  background-color: #e0e0e0;
+}
+
+.latin-text-display span.selected {
+  background-color: #a7d7f5; /* A light blue for selected words */
+  font-weight: bold;
+}
+
+/* Style for the selected main verb button in Step 2 */
+button.selected-main {
+  background-color: #28a745; /* A green color */
+  color: white;
+  border-color: #28a745;
+}
